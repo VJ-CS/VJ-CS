@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VJ
 - 👀 I’m interested in solving business problem (using CS-tools like Data, ML, AI)
-- 🌱 I’m currently learning ML,AI
+- 🌱 I’m currently learning DS,ML and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
