@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VJ
-- 👀 I’m interested in solving business problem (using CS-tools like Data, ML, AI)
+- 👀 Focused on solving business problem (Through Data, ML, AI)
 - 🌱 I’m currently learning DS,ML and AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for collaborate on make this world sustainable...
 - 📫 How to reach me ...
 
 <!---
